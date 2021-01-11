@@ -34,3 +34,8 @@ git push myfork update-readme
 
 Now if you go back to your browser you'll see a pull request button available (on either the
 original repo or on your fork). 
+
+## Hint 2
+
+If you are collaborating on a text file document (like this one) the web-based interface seems relatively easy to use.
+
