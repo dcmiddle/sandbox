@@ -39,3 +39,6 @@ original repo or on your fork).
 
 If you are collaborating on a text file document (like this one) the web-based interface seems relatively easy to use.
 
+## Hint 3
+
+I discovered three ways of getting to this one file and i tried all three of them. Was only able to use the browser to update the file. Need to figure out how to do it using the other two mechanisms (cmd line nad Git GUI)
