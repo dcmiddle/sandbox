@@ -1,5 +1,17 @@
 # Sanbox
 
+|caller|get   |put    |post            |delete   |
+|---|---|---|---|---|
+|api   |foo   |       |json body       |terminate|
+|       |     |       |{||
+|       |       |   |"v": key, ||
+||||"ip": ipaddr,||
+||||}||
+|reactivate|    |Start instance_id | ||
+|stop|  |stop instance_id |||
+
+
+
 ## What is Sandbox
 This is just a repo to experiment with git.
 Try making a pull request.
